@@ -1,4 +1,4 @@
-# Edmund's Claude Code Setup
+# Stedrow's Claude Code Setup
 
 My personal Claude Code configuration for productive web development. This plugin provides **14 slash commands** and **11 specialized AI agents** to supercharge your development workflow.
 
@@ -65,23 +65,23 @@ My personal Claude Code configuration for productive web development. This plugi
 
 ```bash
 # Add marketplace
-/plugin marketplace add edmund-io/edmunds-claude-code
+/plugin marketplace add stedrow/stedrow-claude-code
 
 # Install plugin
-/plugin install edmunds-claude-code
+/plugin install stedrow-claude-code
 ```
 
 ### From Local Clone (for development)
 
 ```bash
-git clone https://github.com/edmund-io/edmunds-claude-code.git
-cd edmunds-claude-code
+git clone https://github.com/stedrow/stedrow-claude-code.git
+cd stedrow-claude-code
 
 # Add as local marketplace
-/plugin marketplace add /path/to/edmunds-claude-code
+/plugin marketplace add /path/to/stedrow-claude-code
 
 # Install plugin
-/plugin install edmunds-claude-code
+/plugin install stedrow-claude-code
 ```
 
 ## Best For
@@ -147,7 +147,7 @@ MIT - Use freely in your projects
 
 ## Author
 
-Created by Edmund
+Created by Stedrow
 
 ---
 
